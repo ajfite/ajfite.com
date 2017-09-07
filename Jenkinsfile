@@ -11,7 +11,7 @@ pipeline {
       stage('Deploy') {
          steps {
             echo 'Deploying...'
-            sh 'cp -r _site/* /www/ajfite/www'
+            sh 'cp -r _site/* /www/ajfite/www/'
          }
       }
    }

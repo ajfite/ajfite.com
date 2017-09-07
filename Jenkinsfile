@@ -1,10 +1,6 @@
 pipeline {
    agent any
-   options([pipelineTriggers([githubPush()])])
 
-   node {
-       git url: 'https://github.com/Goldman60/ajfite.com.git', branch: 'master'
-   }
    stages {
       stage('Build') {
          steps {

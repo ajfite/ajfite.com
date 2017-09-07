@@ -1,6 +1,6 @@
 pipeline {
    agent any
-   properties([pipelineTriggers([githubPush()])])
+   options([pipelineTriggers([githubPush()])])
 
    node {
        git url: 'https://github.com/Goldman60/ajfite.com.git', branch: 'master'

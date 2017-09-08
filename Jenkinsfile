@@ -11,7 +11,7 @@ pipeline {
       stage('Deploy') {
          steps {
             echo 'Deploying...'
-            sh 'rsync -ar --delete _site/* /www/ajfite.com/www/'
+            sh 'rsync -av --delete _site/* /www/ajfite.com/www/'
          }
       }
    }

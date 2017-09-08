@@ -20,7 +20,7 @@ description: > # this means to ignore newlines until "baseurl:"
   at Cal Poly San Luis Obispo.  Personal projects, random ramblings, and
   other content of interst can be found here.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ajfite.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ajfite
 github_username:  goldman60
 
@@ -29,6 +29,11 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+
+collections:
+  posts:
+    output: true
+    permalink: /blog/:year/:month/:day/:title.html
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

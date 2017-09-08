@@ -35,6 +35,12 @@ collections:
     output: true
     permalink: /blog/:year/:month/:day/:title.html
 
+defaults:
+  - scope:
+      path: "assets/images"
+    values:
+      image: true
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

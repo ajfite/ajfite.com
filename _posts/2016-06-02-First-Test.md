@@ -1,6 +1,7 @@
 ---
 layout: post
 title: First full game test
+categories: baseball-pi
 ---
 ![Full scale test](/assets/images/2016-06-02-reallife.jpg)
 

@@ -27,7 +27,7 @@ engineer a John Deere Tractor ECU.
 ### Remote Telemetry Station
 
 A multipurpose remote telemetry station running on the Texas
-Instruments MSP432 microcontroller and CC1101 integrated radio IC.  
+Instruments MSP432 microcontroller and CC1101 integrated radio IC. 
 A work in progress, more information to come.
 
 ## Old Projects

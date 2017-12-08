@@ -19,6 +19,17 @@ attached to a raspberry pi.
 Temporarily on hiatus while I rework the project
 and wait for a new Mariners season.
 
+### Tractor Hacking - [Wiki](https://wiki.nclf.net/index.php?title=TractorHacking:Main_Page)
+
+An ongoing Cal Poly CPE350/CPE450 Capstone project to reverse
+engineer a John Deere Tractor ECU.
+
+### Remote Telemetry Station
+
+A multipurpose remote telemetry station running on the Texas
+Instruments MSP432 microcontroller and CC1101 integrated radio IC.  
+A work in progress, more information to come.
+
 ## Old Projects
 
 * [My old National History Day project from high school](https://projects.ajfite.com/nhd/)

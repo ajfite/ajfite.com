@@ -19,7 +19,7 @@ attached to a raspberry pi.
 Temporarily on hiatus while I rework the project
 and wait for a new Mariners season.
 
-### Tractor Hacking - [Wiki](https://wiki.nclf.net/index.php?title=TractorHacking:Main_Page)
+### Tractor Hacking - [Website](https://tractorhacking.github.io)
 
 An ongoing Cal Poly CPE350/CPE450 Capstone project to reverse
 engineer a John Deere Tractor ECU.

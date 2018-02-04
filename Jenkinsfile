@@ -2,16 +2,12 @@ pipeline {
    agent any
 
    stages {
-      stage('Build') {
+      stage('Build and Deploy') {
          steps {
-            echo 'Building...'
-            sh 'bundle exec jekyll build'
-         }
-      }
-      stage('Deploy') {
-         steps {
-            echo 'Deploying...'
-            sh 'rsync -rltvh --delete _site/ /www/ajfite.com/www/'
+            echo 'Updating Gemfiles...'
+            sh 'BUNDLE_GEMFILE=Gemfile bundle install'
+            echo 'Building and deploying'
+            sh 'bundle exec jekyll build -d /www/ajfite.com/www/'
          }
       }
    }

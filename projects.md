@@ -32,6 +32,10 @@ A work in progress, more information to come.
 
 ## Old Projects
 
+These projects are archives of extremely old work, kept around for fun
+and nostalgia only.  They are not representative of my present skills,
+but still fun to see.
+
 * [My old National History Day project from high school](https://projects.ajfite.com/nhd/)
 * [Cal Poly rotation calculator](https://projects.ajfite.com/rotations/)
 * [Cal Poly CPE123 work](https://sites.google.com/site/ajcpe123/)

@@ -13,9 +13,9 @@ experience.
 Linode VPS running a self-maintained Arch Linux instance.
 
 * Web Server - nginx mainline with PHP7.x and MariaDB (where this site is hosted)
-* [https://build.nclf.net](Build Server) - Jenkins
-* [https://git.nclf.net](Git Server) - GitLab
-* [https://wiki.nclf.net](Wiki) - MediaWiki
+* [Build Server](https://build.nclf.net) - Jenkins
+* [Git Server](https://git.nclf.net) - GitLab
+* [Wiki](https://wiki.nclf.net) - MediaWiki
 * Forum - PHPBB3 based forum - Work In Progress
 
 ## master.seattle.fssnow.com

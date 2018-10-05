@@ -4,7 +4,7 @@ layout: home
 
 Welcome to my personal website.  Check out my projects and blog, I also run a number of web services that you may find interesting.
 
-My current projects are CPE464 Networks, CSC365 iOS Mobile Application Development, and Baseball-Pi.  Go Mariners.
+My current projects are CPE 453 Operating Systems, CSC 471 Graphics, and Baseball-Pi.  Go Mariners.
 
 Check out [My Resume](https://projects.ajfite.com/resume)!
 

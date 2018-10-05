@@ -1,0 +1,21 @@
+stages:
+  - build
+  - deploy
+    
+build:
+  stage: build
+  
+  script:
+    - BUNDLE_GEMFILE=Gemfile bundle install --deployment --clean
+
+  tags:
+    - fremont
+    
+deploy:
+  stage: deploy
+  
+  script:
+    - bundle exec jekyll build -d /www/ajfite.com/www/
+    
+  tags:
+    - fremont

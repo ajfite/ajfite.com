@@ -21,14 +21,17 @@ and wait for a new Mariners season.
 
 ### Tractor Hacking - [Website](https://tractorhacking.github.io)
 
-An ongoing Cal Poly CPE350/CPE450 Capstone project to reverse
+My Cal Poly CPE350/CPE450 Capstone project to reverse
 engineer a John Deere Tractor ECU.
 
 ### Remote Telemetry Station
 
 A multipurpose remote telemetry station running on the Texas
-Instruments MSP432 microcontroller and CC1101 integrated radio IC. 
-A work in progress, more information to come.
+Instruments MSP432 microcontroller and CC1101 integrated radio IC.
+
+### Space Race - [Website](https://projects.ajfite.com/csc471-finalproject)
+
+A work in progress C++/OpenGL project for CSC 471.
 
 ## Old Projects
 

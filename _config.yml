@@ -16,9 +16,9 @@
 title: AJ Fite
 email: me@ajfite.com
 description: > # this means to ignore newlines until "baseurl:"
-  The personal website for A.J. Fite, a senior Computer Engineering major
-  at Cal Poly San Luis Obispo.  Personal projects, random ramblings, and
-  other content of interest can be found here.
+  The personal website for A.J. Fite, a recent Computer Engineering graduate
+  at Cal Poly San Luis Obispo, soon to be Software Engineer at Boeing.
+  Personal projects, random ramblings, and other content of interest can be found here.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ajfite.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ajfite

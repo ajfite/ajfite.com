@@ -16,7 +16,7 @@ Vultr VPS ([referral code](https://www.vultr.com/?ref=8127346-4F)) running a sel
 * Web Server - nginx mainline with PHP7.x and MariaDB (where this site is hosted)
 * [Git and Build Server](https://git.nclf.net) - GitLab, GitLab CI replacing jenkins
 * [Wiki](https://wiki.nclf.net) - MediaWiki
-* Minecraft Hosting - Lapito's Galacticraft, connect to mc.nclf.net
+* Minecraft Hosting -  [visit mc.nclf.net for more info](https://mc.nclf.net)
 
 ## master.seattle.fssnow.com - Now Defunct
 
@@ -36,7 +36,7 @@ An always on Raspberry Pi 3b
 * VPN - OpenVPN utilizing strong RSA key exchanges
 * Unifi Controller - Controller for the local Ubiquity Unifi deployment
 
-## moon13.renton.fssnow.com
+## moon13-pi.moon13.fssnow.com
 
 An always on Raspberry Pi 3b+
 
@@ -44,7 +44,7 @@ An always on Raspberry Pi 3b+
 * Unifi Controller - Controller for the local Ubiquity Unifi deployment
 * Pi-Hole - DNS server for the local network
 
-## deep13.renton.fssnow.com
+## deep13-pi.moon13.fssnow.com
 
 An always on Raspberry Pi 3b
 

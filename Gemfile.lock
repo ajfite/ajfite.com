@@ -18,7 +18,7 @@ GEM
     ffi (1.11.1)
     forwardable-extended (2.6.0)
     http_parser.rb (0.6.0)
-    i18n (1.6.0)
+    i18n (1.7.0)
       concurrent-ruby (~> 1.0)
     jekyll (4.0.0)
       addressable (~> 2.4)
@@ -76,7 +76,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll (>= 3.8.5)
+  jekyll (>= 4.0)
   jekyll-bootstrap-sass
   jekyll-feed
   minima (~> 2.5)

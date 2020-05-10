@@ -7,7 +7,7 @@ pipeline {
             echo 'Updating Gemfiles...'
             sh 'BUNDLE_GEMFILE=Gemfile bundle install --deployment --clean'
             echo 'Building and deploying'
-            sh 'bundle exec jekyll build -d /www/ajfite.com/www/'
+            sh 'bundle exec jekyll build -d /rootstore/wwwdata/ajfite.com/www/'
          }
       }
    }

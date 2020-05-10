@@ -5,8 +5,8 @@ build:
   stage: build and deploy
   
   script:
-    - BUNDLE_GEMFILE=Gemfile bundle install --deployment --clean
-    - bundle exec jekyll build -d /rootstore/wwwdata/ajfite.com/www/
+    - BUNDLE_GEMFILE=Gemfile bundle install
+    - JEKYLL_ENV=production bundle exec jekyll build -d /rootstore/wwwdata/ajfite.com/www/
 
   tags:
     - webserver

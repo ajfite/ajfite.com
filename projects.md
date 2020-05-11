@@ -14,7 +14,7 @@ please email me.
 ## Current Projects
 
 ### Kenwood TS-850s Restoration
-I'm restoring my Kenwood TS-850s, I'll make periodic posts about it on my [Amateur Radio Twitter @N7AJ_](https://twitter.com/N7AJ)
+I'm restoring my Kenwood TS-850s, I'll make periodic posts about it on my [Amateur Radio Twitter @N7AJ_](https://twitter.com/N7AJ_)
 
 ## Back Burner Projects
 

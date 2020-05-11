@@ -24,10 +24,6 @@ twitter_username: ajfite
 github_username:  ajfite
 linkedin_username: ajfite
 
-mastodon:
-   - username: n7ajf
-     instance: mastodon.radio
-
 # Build settings
 markdown: kramdown
 theme: minima

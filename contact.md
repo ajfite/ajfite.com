@@ -12,6 +12,7 @@ For Amateur Radio specific inquires use: [N7AJ@ajfite.com](mailto:N7AJ@ajfite.co
 
 
 Twitter: [@ajfite](https://twitter.com/ajfite)
+Radio Twitter: [@N7AJ_](https://twitter.com/N7AJ_)
 
 
 Mail and packages can be sent to: <br> AJ Fite <br> PO Box 3307 <br> Renton, WA 98056

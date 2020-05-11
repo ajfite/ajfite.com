@@ -9,9 +9,9 @@ interested third parties.  Also a good showcase of my personal system administra
 experience.  Note that the subdomains of fssnow.com are not meant to host websites,
 connecting to these with a web browser may produce unexpected results.
 
-## Azure VM
+## Azure
 
-Azure VM running most of my online presence
+Azure services running most of my online presence
 
 * Web Server - nginx mainline with PHP7.x and MariaDB (where this site is hosted)
 * [Git and Build Server](https://git.nclf.net) - Self hosted GitLab

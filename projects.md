@@ -13,7 +13,8 @@ please email me.
 
 ## Current Projects
 
-I'm pretty burned out having just graduated, check back later.
+### Kenwood TS-850s Restoration
+I'm restoring my Kenwood TS-850s, I'll make periodic posts about it on my [Amateur Radio Twitter @N7AJ_](https://twitter.com/N7AJ)
 
 ## Back Burner Projects
 
@@ -21,8 +22,8 @@ I'm pretty burned out having just graduated, check back later.
 
 A baseball scoreboard using off the shelf hardware
 attached to a raspberry pi.
-Temporarily on hiatus while I rework the project
-and wait for a new Mariners season.
+Temporarily on hiatus while MLB is closed due to COVID-19.  I'd like to pick this
+back up after the quarantine is over.
 
 ### Remote Telemetry Station
 
@@ -32,7 +33,7 @@ Created initially for CPE329 in 4 weeks it includes a PCB with hand placed
 surface mount components and complete software.  This project is currently
 on the back burner.
 
-## Recently Completed Projects
+## Completed Projects
 
 ### Solar Irradiance Microforecasting
 

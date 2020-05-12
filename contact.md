@@ -8,7 +8,7 @@ Email me at: [me@ajfite.com](mailto:me@ajfite.com)
 <br>
 For Amateur Radio specific inquires use: [N7AJ@ajfite.com](mailto:N7AJ@ajfite.com)
 <br>
-[My PGP Key](https://pgp.surfnet.nl/pks/lookup?op=vindex&fingerprint=on&search=0x6c7242e181843606) (Optional)
+My PGP Key: [direct link](/assets/keys/pgp.asc) / [key server](https://pgp.surfnet.nl/pks/lookup?op=vindex&fingerprint=on&search=0x6c7242e181843606) (Optional for email)
 
 
 Twitter: [@ajfite](https://twitter.com/ajfite)

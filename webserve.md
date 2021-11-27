@@ -4,7 +4,7 @@ title: Web Services
 permalink: /webservices/
 ---
 
-I run a series of personal web services for myself, fellow students, and
+I run a series of personal web services for myself, and
 interested third parties.  Also a good showcase of my personal system administration
 experience.  Note that the subdomains of fssnow.com are not meant to host websites,
 connecting to these with a web browser may produce unexpected results.

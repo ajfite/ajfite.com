@@ -5,10 +5,6 @@ build:
   stage: build and deploy
   
   script:
-    - bundle config set clean 'true'
-    - bundle config set deployment 'true'
-    - BUNDLE_GEMFILE=Gemfile bundle install
-    - JEKYLL_ENV=production bundle exec jekyll build -d /rootstore/wwwdata/ajfite.com/www/
 
   tags:
     - webserver

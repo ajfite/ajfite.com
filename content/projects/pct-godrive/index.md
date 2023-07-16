@@ -1,33 +1,27 @@
 ---
-title: Markdown Syntax Guide 2
-seo_title: Markdown Syntax Guide 2
-summary: Sample article showcasing basic Markdown syntax and formatting for HTML elements.
-description: Sample article showcasing basic Markdown syntax and formatting for HTML elements.
-slug: markdown-syntax-2
-author: John Doe
+title: PC Transporter GoDrive
+seo_title: PC Transporter GoDrive
+summary: An open source TransDrive clone for the Apple II Applied Engineering PC Transporter
+description: Portfolio Project 1 is my first portfolio project.
+slug: pct-godrive
+author: AJ Fite
 
 draft: false
-date: 2020-11-19T21:21:46-05:00
+date: 2023-07-15
 lastmod: 
 expiryDate: 
 publishDate: 
 
-feature_image: 
-feature_image_alt: 
+feature_image: web-design.jpg
+feature_image_alt: Web design
 
-categories:
-  - Web Development
-tags:
-  - Markdown
-  - HTML
-series: 
-  - Learn Markdown
+project types: 
+    - Open Source
 
-toc: true
-related: true
-social_share: true
-newsletter: true
-disable_comments: false
+techstack:
+    - KiCad
+#live_url: https://hugo-liftoff.netlify.app
+source_url: https://git.nclf.net/ajfite/pct-godrive
 ---
 
 This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.

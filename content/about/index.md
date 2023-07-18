@@ -1,22 +1,12 @@
 ---
 type: about
-title: Hi, my name is Hugo.
+title: Hi, my name is AJ Fite.
 seo_title: About
 description: Learn more about my background and experience.
 ---
 
-You can customize the about page heading and disable social links if desired. The rest of the content can be added with markdown. Please see [Github](https://github.com/wjh18/hugo-liftoff) for a full list of features and documentation.
+I am a Flight Software Engineer with Blue Origin in Renton, WA.  Formerly with Boeing on the P-8 program as a Software Engineer.  I live in Renton with my wife and two cats.  In my spare time I do Amateur Radio, Vintage Electronics tinkering and restortation, video games, and hiking.
 
-## Who am I?
+My amateur radio callsign is N7AJ, my GMRS callsign is WRCJ831.
 
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce sem augue, tristique luctus lobortis nec, cursus eu erat. Proin dictum vel enim a vestibulum.
-
-## My Experience
-
-Integer est purus, aliquam ac enim aliquet, viverra sodales mauris. Integer neque sapien, fermentum sit amet augue in, vulputate pellentesque turpis. Quisque eget blandit turpis, in semper lectus.
-
-## Learn More
-
-You can also link to [other pages]({{< ref "contact" >}}) in your markdown.
-
- <iframe src="https://projects.ajfite.com/resume" title="W3Schools Free Online Web Tutorials"></iframe> 
+ <iframe src="https://projects.ajfite.com/resume" title="My Resume, also available at https://projects.ajfite.com/resume if this is not loading"></iframe> 

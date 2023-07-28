@@ -19,7 +19,7 @@ I can be reached in a variety of ways!
 
 AJ Fite\
 PO Box 3307\
-Renton, WA 98056\
-United States of America\
+Renton, WA 98056-0010\
+United States of America
 
 Please note that unexpected packages may be returned to sender, please reach out to me digitally before sending snail mail for a more prompt response.

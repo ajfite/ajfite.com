@@ -164,7 +164,7 @@ theme = 'hugo-liftoff'
   disableJSON = false
   disableSVG = false
   disableXML = false
-  minifyOutput = false
+  minifyOutput = true
   [minify.tdewolff]
     [minify.tdewolff.css]
       keepCSS2 = true
@@ -175,7 +175,7 @@ theme = 'hugo-liftoff'
       keepDefaultAttrVals = true
       keepDocumentTags = true
       keepEndTags = true
-      keepQuotes = false
+      keepQuotes = true
       keepWhitespace = false
     [minify.tdewolff.js]
       keepVarNames = false

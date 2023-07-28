@@ -7,7 +7,9 @@ description: Send me a message to provide feedback about the site, my writing, o
 
 I can be reached in a variety of ways!
 
-[Socials through my Link List](https://link.ajfite.com)
+### By Socials
+
+Linked at the bottom of this page
 
 ### By Email
 

@@ -53,6 +53,9 @@ about_page_socials = true
   #stack_overflow = "userid/username" # include user id
   email = "me@ajfite.com"
   linkedin = "ajfite" # Comment out to disable
+  mastodon_server = "mastodon.social" # include subdomains if relevant, scheme not needed (defaults to https)
+  mastodon_user = "ajfite" # don't include preceding @
+
 
 # Enable or disable individual social share icons in posts
 [social.share]

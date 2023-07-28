@@ -1,11 +1,14 @@
 stages:
   - build and deploy
-    
+
+variables:
+  GIT_SUBMODULE_STRATEGY: recursive
+
 build:
   stage: build and deploy
   
   script:
-    - hugo --gc --minify --noTimes --noChmod --cleanDestinationDir -d /www/ajfite.com/beta/
+    - hugo --gc --minify --cleanDestinationDir -d /www/ajfite.com/beta/
 
   tags:
     - webserver

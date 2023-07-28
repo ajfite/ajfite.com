@@ -12,7 +12,7 @@ lastmod:
 expiryDate: 
 publishDate: 
 
-feature_image: web-design.jpg
+feature_image: pct-godrive.png
 feature_image_alt: Web design
 
 project types: 

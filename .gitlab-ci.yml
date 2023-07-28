@@ -1,14 +1,27 @@
 stages:
   - build and deploy
-    
-build:
+
+variables:
+  GIT_SUBMODULE_STRATEGY: recursive
+
+beta:
   stage: build and deploy
   
   script:
-    - bundle config set clean 'true'
-    - bundle config set deployment 'true'
-    - BUNDLE_GEMFILE=Gemfile bundle install
-    - JEKYLL_ENV=production bundle exec jekyll build -d /rootstore/wwwdata/ajfite.com/www/
+    - hugo --gc --minify --noTimes --noChmod --cleanDestinationDir -b "https://beta.ajfite.com/" -d /www/ajfite.com/beta/
+
+  tags:
+    - webserver
+
+prod:
+  stage: build and deploy
+
+  script:
+    - hugo --gc --minify --noTimes --noChmod --cleanDestinationDir -d /www/ajfite.com/www/
+
+  rules:
+    - if: $CI_COMMIT_BRANCH == "master"
+      when: manual
 
   tags:
     - webserver

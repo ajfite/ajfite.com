@@ -9,4 +9,8 @@ I am a Flight Software Engineer with Blue Origin in Renton, WA.  Formerly with B
 
 My amateur radio callsign is N7AJ, my GMRS callsign is WRCJ831.
 
- <iframe src="https://projects.ajfite.com/resume" title="My Resume, also available at https://projects.ajfite.com/resume if this is not loading"></iframe> 
+## My Resume
+
+Below or [linked here](https://projects.ajfite.com/resume).
+
+ <iframe src="https://projects.ajfite.com/resume" style="width:100%; height:750px;" title="My Resume, also available at https://projects.ajfite.com/resume if this is not loading"></iframe> 

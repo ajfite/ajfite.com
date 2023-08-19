@@ -1,14 +1,14 @@
 ---
 title: IBM PS/2 Model P70 Restoration
 seo_title: IBM PS/2 Model P70 Restoration
-summary: Repair, archiving, and modernizing an IBM PS/2 Model P70 Luggable coputer
-description: Repair, archiving, and modernizing an IBM PS/2 Model P70 Luggable coputer
+summary: Repair, archiving, and modernizing an IBM PS/2 Model P70 Luggable computer
+description: Repair, archiving, and modernizing an IBM PS/2 Model P70 Luggable computer
 slug: ibm-ps2-p70
 author: AJ Fite
 
 draft: false
 date: 2023
-lastmod: 
+lastmod: 08-19-2023
 expiryDate: 
 publishDate: 
 
@@ -30,7 +30,7 @@ This is a work in progress, pictures coming at some point!
 
 ## Modernization
 
-I've outfitted the machine with a new to me IBM SCSI card part number 84F8015.  I haven't found reference to that part number online anywhere.  It came with a reference diskette that I haven't found online, [I have archived it here]({{< ref "projects/ibm-ps2-p70/IBMOptionDisk84F8015.img" >}}).
+I've outfitted the machine with a new to me IBM SCSI card part number 84F8015.  I haven't found reference to that part number online anywhere.  It came with a 3.5" option diskette that I haven't found online, [I have archived it here](IBMOptionDisk84F8015.img).
 
 In order to get away from the ancient spinning drive (which I'm not yet sure works) I'm using a [ZuluSCSI](https://zuluscsi.com/) in conjunction with the above card to allow a MicroSD to stand in for the hard drive (and other devices).  If I had known about it at the time I may have instead chosen this modern MCA SCSI reproduction, the [McIDE](https://zzxio.com/product/mcide/).  Its possible I will revisit the McIDE in the future since the SCSI card while more period accurate is more cumbersome.
 

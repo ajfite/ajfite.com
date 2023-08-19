@@ -2,7 +2,7 @@
 title: Vintage Electronics Tinkering and Restoration
 seo_title: Vintage Electronics Tinkering and Restoration
 summary: Hobby work restoring and working on vintage computers, radios, Typewriters, and Hi-Fi equipment.
-description: PHobby work restoring and working on vintage computers, radios, Typewriters, and Hi-Fi equipment.
+description: Hobby work restoring and working on vintage computers, radios, Typewriters, and Hi-Fi equipment.
 slug: vintage-electronics
 author: AJ Fite
 
@@ -42,4 +42,8 @@ Stay tuned for my new [PC Transporter to IBM PC drive adapter]({{< ref "projects
 
 ## IBM PC XT (IBM 5160)
 
-Coming soon...
+[Head on over to its new dedicated page]({{< ref "projects/ibm-pc-xt-5160" >}}).
+
+## IBM PS/2 Model P70
+
+[Head on over to its new dedicated page]({{< ref "projects/ibm-ps2-p70" >}}).

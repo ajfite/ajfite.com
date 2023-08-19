@@ -42,8 +42,8 @@ Stay tuned for my new [PC Transporter to IBM PC drive adapter]({{< ref "projects
 
 ## IBM PC XT (IBM 5160)
 
-[Head on over to its new dedicated page]({{< ref "projects/ibm-pc-xt-5160" >}}).
+[Head on over to its new dedicated page]({{< ref "projects/ibm-5160" >}}).
 
 ## IBM PS/2 Model P70
 
-[Head on over to its new dedicated page]({{< ref "projects/ibm-ps2-p70" >}}).
+[Head on over to its new dedicated page]({{< ref "projects/ibm-p70" >}}).

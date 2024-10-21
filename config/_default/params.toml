@@ -55,10 +55,12 @@ about_page_socials = true
   linkedin = "ajfite" # Comment out to disable
   mastodon_server = "mastodon.social" # include subdomains if relevant, scheme not needed (defaults to https)
   mastodon_user = "ajfite" # don't include preceding @
+  bluesky_user = "ajfite.com"
 
 
 # Enable or disable individual social share icons in posts
 [social.share]
+  bluesky = true
   facebook = true
   linkedin = true
   twitter = true

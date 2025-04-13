@@ -18,7 +18,8 @@ prod:
   stage: build and deploy
 
   script:
-    - hugo --gc --minify --noTimes --noChmod --cleanDestinationDir -d /www/ajfite.com/www/
+    - hugo --gc --minify --noTimes --noChmod --cleanDestinationDir -b "https://beta.ajfite.com/" -d build-output
+    - rsync -avh --delete build-output/ /www/ajfite.com/www/
 
   rules:
     - if: $CI_COMMIT_BRANCH == "master"

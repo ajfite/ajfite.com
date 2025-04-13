@@ -8,6 +8,8 @@ beta:
   stage: build and deploy
   
   script:
+    - pwd
+    - hugo --version
     - hugo --gc --minify --noTimes --noChmod --cleanDestinationDir -b "https://beta.ajfite.com/" -d /www/ajfite.com/beta/
 
   tags:

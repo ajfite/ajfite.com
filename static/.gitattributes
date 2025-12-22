@@ -1,0 +1,2 @@
+android-chrome-192x192.png filter=lfs diff=lfs merge=lfs -text
+android-chrome-512x512.png filter=lfs diff=lfs merge=lfs -text

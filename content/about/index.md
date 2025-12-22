@@ -10,9 +10,3 @@ I am a Flight Software Engineer with Blue Origin in Kent, WA.  Formerly with Boe
 My amateur radio callsign is [N7AJ](https://n7aj.radio), my GMRS callsign is WRCJ831.
 
 The Twitter accounts [@ajfite](https://twitter.com/ajfite) and [@N7AJ_](https://twitter.com/N7AJ_) are owned by me, but they have been replaced by the Bluesky accounts [@ajfite.com](https://bsky.app/profile/ajfite.com) and [@N7AJ.radio](https://bsky.app/profile/n7aj.radio) respectively.
-
-## My Resume
-
-Below or [linked here](https://projects.ajfite.com/resume).
-
- <iframe src="https://projects.ajfite.com/resume" style="width:100%; height:750px;" title="My Resume, also available at https://projects.ajfite.com/resume if this is not loading"></iframe> 
